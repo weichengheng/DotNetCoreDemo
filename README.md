@@ -1,0 +1,3 @@
+# DotNetCoreDemo
+my DotNetCoreDemo
+DetCoreDemo
