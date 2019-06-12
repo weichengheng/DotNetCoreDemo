@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
+using Ken.Tutorial.Web.Repositories;
 
 namespace Ken.Tutorial.Web
 {
@@ -17,6 +18,12 @@ namespace Ken.Tutorial.Web
         {
             //引入mvc模块
             services.AddMvc();
+
+            //配置DbContext注入
+            services.AddTransient<TestDbContext>();
+
+            //配置Repository注入
+            services.AddTransient<BillDetailSync2SapLogRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

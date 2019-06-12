@@ -1,5 +1,5 @@
 {
-  "FilePath": "e:\\Code\\C#\\dotNetCore\\project2\\Ken.Tutorial\\Ken.Tutorial.Web\\Ken.Tutorial.Web.csproj",
+  "FilePath": "e:\\WCHWORK\\GIT\\DotNetCoreDemo\\Ken.Tutorial\\Ken.Tutorial.Web\\Ken.Tutorial.Web.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-2.1",
     "LanguageVersion": "2.1",
@@ -2758,6 +2758,16 @@
   },
   "RootNamespace": "Ken.Tutorial.Web",
   "Documents": [
+    {
+      "FilePath": "Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
     {
       "FilePath": "Views\\Home\\Time.cshtml",
       "TargetPath": "Views\\Home\\Time.cshtml",

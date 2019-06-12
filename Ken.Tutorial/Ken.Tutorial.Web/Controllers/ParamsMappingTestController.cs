@@ -4,6 +4,7 @@ using Ken.Tutorial.Web.Models;
 
 namespace Ken.Tutorial.Web.Controllers
 {
+    //参数映射测试
     public class ParamsMappingTestController : Controller
     {
         public IActionResult GetId(int id)

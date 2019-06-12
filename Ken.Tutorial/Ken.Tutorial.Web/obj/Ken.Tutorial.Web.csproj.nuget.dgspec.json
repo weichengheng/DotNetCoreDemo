@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Code\\C#\\dotNetCore\\project2\\Ken.Tutorial\\Ken.Tutorial.Web\\Ken.Tutorial.Web.csproj": {}
+    "E:\\WCHWORK\\GIT\\DotNetCoreDemo\\Ken.Tutorial\\Ken.Tutorial.Web\\Ken.Tutorial.Web.csproj": {}
   },
   "projects": {
-    "E:\\Code\\C#\\dotNetCore\\project2\\Ken.Tutorial\\Ken.Tutorial.Web\\Ken.Tutorial.Web.csproj": {
+    "E:\\WCHWORK\\GIT\\DotNetCoreDemo\\Ken.Tutorial\\Ken.Tutorial.Web\\Ken.Tutorial.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Code\\C#\\dotNetCore\\project2\\Ken.Tutorial\\Ken.Tutorial.Web\\Ken.Tutorial.Web.csproj",
+        "projectUniqueName": "E:\\WCHWORK\\GIT\\DotNetCoreDemo\\Ken.Tutorial\\Ken.Tutorial.Web\\Ken.Tutorial.Web.csproj",
         "projectName": "Ken.Tutorial.Web",
-        "projectPath": "E:\\Code\\C#\\dotNetCore\\project2\\Ken.Tutorial\\Ken.Tutorial.Web\\Ken.Tutorial.Web.csproj",
+        "projectPath": "E:\\WCHWORK\\GIT\\DotNetCoreDemo\\Ken.Tutorial\\Ken.Tutorial.Web\\Ken.Tutorial.Web.csproj",
         "packagesPath": "C:\\Users\\weichengheng\\.nuget\\packages\\",
-        "outputPath": "E:\\Code\\C#\\dotNetCore\\project2\\Ken.Tutorial\\Ken.Tutorial.Web\\obj\\",
+        "outputPath": "E:\\WCHWORK\\GIT\\DotNetCoreDemo\\Ken.Tutorial\\Ken.Tutorial.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -55,6 +55,10 @@
               "target": "Package",
               "version": "[2.2.0, )",
               "autoReferenced": true
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[2.2.0, )"
             }
           },
           "imports": [
