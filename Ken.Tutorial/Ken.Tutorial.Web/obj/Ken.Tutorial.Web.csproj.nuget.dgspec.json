@@ -56,6 +56,10 @@
               "version": "[2.2.0, )",
               "autoReferenced": true
             },
+            "NLog.Web.AspNetCore": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            },
             "Pomelo.EntityFrameworkCore.MySql": {
               "target": "Package",
               "version": "[2.2.0, )"

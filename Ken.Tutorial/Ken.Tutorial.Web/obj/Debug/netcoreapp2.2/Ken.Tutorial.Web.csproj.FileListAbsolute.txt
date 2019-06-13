@@ -46,3 +46,4 @@ E:\WCHWORK\GIT\DotNetCoreDemo\Ken.Tutorial\Ken.Tutorial.Web\obj\Debug\netcoreapp
 E:\WCHWORK\GIT\DotNetCoreDemo\Ken.Tutorial\Ken.Tutorial.Web\obj\Debug\netcoreapp2.2\Ken.Tutorial.Web.dll
 E:\WCHWORK\GIT\DotNetCoreDemo\Ken.Tutorial\Ken.Tutorial.Web\obj\Debug\netcoreapp2.2\Ken.Tutorial.Web.pdb
 E:\WCHWORK\GIT\DotNetCoreDemo\Ken.Tutorial\Ken.Tutorial.Web\obj\Debug\netcoreapp2.2\Ken.Tutorial.Web.csproj.CopyComplete
+E:\WCHWORK\GIT\DotNetCoreDemo\Ken.Tutorial\Ken.Tutorial.Web\bin\Debug\netcoreapp2.2\nlog.config
